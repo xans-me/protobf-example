@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"fmt"
 	"os"
-	"protobf-example/models"
 	"strings"
 
 	"github.com/gogo/protobuf/jsonpb"
+	"github.com/xans-me/protobf-example/models"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module protobf-example
+module github.com/xans-me/protobf-example
 
 go 1.15
 

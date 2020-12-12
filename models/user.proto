@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package models;
 
-option go_package = "protobf-example/models";
+option go_package = "github.com/xans-me/protobf-example/models";
 
 enum UserGender {
     UNDEFINED = 0;
